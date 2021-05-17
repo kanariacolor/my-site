@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6r98OucDdpBhyPv-2MCSaxdTJvMjHMez11A&usqp=CAU);
+  background-size:cover;
+}
+
+
+.App-header {
+  background-color: #2251af;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
